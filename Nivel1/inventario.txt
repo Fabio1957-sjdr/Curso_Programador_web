@@ -1,0 +1,1 @@
+como atribuir valor vazio a uma variável?
