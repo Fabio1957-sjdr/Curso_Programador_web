@@ -16,6 +16,7 @@ escreval("Em qual curso está matriculado?")
 leia(curso)
 escreval("Qual o número da máquina que você está usando?")
 leia(numaquina)
+escreval("")
 escreva("O aluno " ,nome, ", de " ,idade, " anos, matriculado no curso de " ,curso, ", está usando a máquina número " ,numaquina,"")
 
 fimalgoritmo

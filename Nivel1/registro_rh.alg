@@ -23,12 +23,12 @@ inicio
 
     escreval("")
     limpatela ("")
-    escreval("---------------------------")
+    escreval("--------------------------------")
     escreval ("Estagiário: " , nome," - " ,idade," anos")
     escreval ("E-mail: " ,mail,"")
     escreval ("Bolsa-Auxílio de R$ " ,auxilio,"")
     escreval ("Experiências: " ,experiencia,"")
-    escreval("--------------------------")
+    escreval("--------------------------------")
 
     
 
