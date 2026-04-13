@@ -1,0 +1,28 @@
+algoritmo "Temperatura crítica"
+
+var
+
+temperatura: real
+
+inicio
+
+
+    escreval("Digite a temperatura atual")
+    leia(temperatura)
+
+    se temperatura <= 20 entao
+    escreval("Climatização ideal")
+        senao
+
+    se temperatura > 20 e temperatura <= 25 entao
+    escreval("Status normal. Atenção")
+        senao
+
+    se temperatura > 25 entao
+    escreval("Status: PERIGO! Servidor superaquecendo!")
+
+    fimse
+        fimse
+             fimse
+    
+fimalgoritmo

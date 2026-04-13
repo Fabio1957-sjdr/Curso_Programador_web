@@ -1,1 +1,0 @@
-Refazer o algoritmo para o inventário deixando resgistrado o item 1 vazio e o segundo item como item 2.
