@@ -12,7 +12,7 @@ escreval("Informe a largura da sala")
 leia(largura)
 escreval("Informe o comprimento da sala")
 leia(comprimento)
-escreval("A área da sala é " ,largura*comprimento,"")
+escreval("A área da sala é " ,largura*comprimento,"m²")
 escreval("O perimetro de sala é " ,comprimento*2+largura*2,"")
 
 
