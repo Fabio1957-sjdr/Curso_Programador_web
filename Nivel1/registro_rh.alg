@@ -1,6 +1,7 @@
 algoritmo "Registro do RH"
 
 var
+
 nome: caractere
 idade: inteiro
 mail: caractere
@@ -10,6 +11,7 @@ experiencia: logico
 inicio
 
     escreval ("REGISTRO DE NOVO ESTAGIÁRIO")
+    escreval("")
     escreval ("Informe seu nome completo")
     leia (nome)
     escreval ("Qual é a sua idade?")

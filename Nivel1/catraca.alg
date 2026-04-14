@@ -6,10 +6,10 @@ var
 
 inicio
 
-    escreval("E a sua idade")
+    escreval("Qual é a sua idade")
     leia(idade)
     se idade >= 18 entao
-        escreval("Acesso liberado, pode acessar o laboratório.")
+        escreval("Acesso liberado ao laboratório.")
     senao
         escreval("Acesso negado. Risco de segurança. Procure seu professor.")
     fimse

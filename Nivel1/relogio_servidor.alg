@@ -7,8 +7,7 @@ var
    minutos:inteiro
    segundos:inteiro
 
-   
-   inicio
+inicio
 
     escreva("Digite o total de segundos registrado: ")
     leia(totalSegundos)
