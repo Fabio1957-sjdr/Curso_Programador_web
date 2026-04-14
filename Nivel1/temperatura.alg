@@ -6,7 +6,6 @@ temperatura: real
 
 inicio
 
-
     escreval("Digite a temperatura atual")
     leia(temperatura)
 

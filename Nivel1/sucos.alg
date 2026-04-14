@@ -23,6 +23,6 @@ inicio
     escreval("O suco preferido das crianças são os seguintes: Carina prefere suco de ", suco_C)
     escreval("Já Talita gosta do suco de uva")
     escreval("Lucas só toma suco de ", suco_L)
-    escreva("As idades das crianças são: Talita, ", idade_T, " anos; Carina, ", idade_C, " anos; e Lucas, ", idade_L, " anos")
+    escreval("As idades das crianças são: Talita, ", idade_T, " anos; Carina, ", idade_C, " anos; e Lucas, ", idade_L, " anos")
 
 fimalgoritmo
