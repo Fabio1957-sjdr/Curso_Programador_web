@@ -1,2 +1,0 @@
-Tentar solução apresentada na sala
-Variável única: resposta:inteiro
